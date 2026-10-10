@@ -9,6 +9,11 @@ I'm an electronics engineer based in Nepal, interested in robotics and natural l
 
 [**Portfolio**](https://simon.gc-np.com) &nbsp;&nbsp;/&nbsp;&nbsp; [**CV**](https://simon.gc-np.com/Simon_G_C_CV.pdf) &nbsp;&nbsp;/&nbsp;&nbsp; [**LinkedIn**](https://www.linkedin.com/in/simon-gc-880163241) &nbsp;&nbsp;/&nbsp;&nbsp; [**Email**](mailto:simongc28@gmail.com)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/pixels-dark.svg">
+  <img alt="Pixel art that reads Simon G C next to a small robot arm" src="assets/pixels-light.svg">
+</picture>
+
 ## Learning right now
 
 I'm working through MuJoCo and using it for reinforcement learning. Both are unfinished and I keep adding to them.

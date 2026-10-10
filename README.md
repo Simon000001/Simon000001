@@ -5,9 +5,9 @@
 
 I'm an electronics engineer based in Nepal, interested in robotics and natural language processing. Most of all I want to bridge control theory with manipulation and planning. My long term goal is a robot general enough to build its own vocabulary of skills in the physical world and reuse them, so it can be a generalist.
 
-Right now I'm a Sr. Research Assistant at Fonepay, and I'm applying for robotics PhD programs.
+> **Now:** Sr. Research Assistant at Fonepay. Applying for robotics PhD programs. Learning MuJoCo and reinforcement learning on the side.
 
-**Portfolio:** [simon.gc-np.com](https://simon.gc-np.com) &nbsp;|&nbsp; **CV:** [PDF](https://simon.gc-np.com/Simon_G_C_CV.pdf) &nbsp;|&nbsp; **LinkedIn:** [simon-gc](https://www.linkedin.com/in/simon-gc-880163241)
+[**Portfolio**](https://simon.gc-np.com) &nbsp;&nbsp;/&nbsp;&nbsp; [**CV**](https://simon.gc-np.com/Simon_G_C_CV.pdf) &nbsp;&nbsp;/&nbsp;&nbsp; [**LinkedIn**](https://www.linkedin.com/in/simon-gc-880163241) &nbsp;&nbsp;/&nbsp;&nbsp; [**Email**](mailto:simongc28@gmail.com)
 
 ## Learning right now
 

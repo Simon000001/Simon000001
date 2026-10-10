@@ -30,4 +30,4 @@ I'm working through MuJoCo and using it for reinforcement learning. Both are unf
 
 ## Tools
 
-Python, C, C++ &nbsp;|&nbsp; ROS 2, MuJoCo, Webots &nbsp;|&nbsp; STM32, ESP32, Arduino &nbsp;|&nbsp; PyTorch, YOLOv5 &nbsp;|&nbsp; KiCad, Fusion 360
+Python, C, C++ &nbsp;|&nbsp; ROS 2, MuJoCo, Webots &nbsp;|&nbsp; STM32, ESP32, Arduino &nbsp;|&nbsp; YOLOv5 &nbsp;|&nbsp; KiCad, Fusion 360

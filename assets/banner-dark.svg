@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="200" viewBox="0 0 1000 200" role="img" aria-label="Simon G C, robotics and natural language processing">
+  <rect width="1000" height="200" fill="#121315"/>
+  <g stroke="#2a2c30" stroke-width="1" fill="none">
+    <path d="M600 40H1000M600 80H1000M600 120H1000M600 160H1000"/>
+    <path d="M640 0V200M720 0V200M800 0V200M880 0V200M960 0V200"/>
+  </g>
+  <g fill="none" stroke="#8ab4f0" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M720 160V120"/>
+    <path d="M720 120L800 70L870 100"/>
+  </g>
+  <g fill="#121315" stroke="#8ab4f0" stroke-width="3">
+    <circle cx="720" cy="120" r="7"/><circle cx="800" cy="70" r="7"/><circle cx="870" cy="100" r="7"/>
+  </g>
+  <path d="M700 160H740" stroke="#8ab4f0" stroke-width="3" stroke-linecap="round"/>
+  <text x="48" y="100" font-family="Helvetica, Arial, sans-serif" font-size="64" font-weight="700" fill="#e8e8e6" letter-spacing="-1.5">Simon G C</text>
+  <text x="50" y="140" font-family="Georgia, 'Times New Roman', serif" font-size="24" font-style="italic" fill="#9a9ca3">Robotics and natural language processing</text>
+  <text x="50" y="170" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#9a9ca3">Control theory, manipulation and planning</text>
+</svg>
